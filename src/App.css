@@ -1,0 +1,14 @@
+.clock{
+    display: inline-flex !important;
+  }
+body {
+    /* background-image: url('./thanos.jpg'); */
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;
+    font-family: 'Avengeance-Regular';
+    text-align: center;
+    font-size: 177%;
+    background-color: darksalmon;
+  }
+  
